@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello 👋 Welcome to my profile
 
-<!--
-**pratyushio/pratyushio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Pratyush** a **UI Designer and App Developer** who enjoys turning ideas into clean, usable, and well-crafted experiences.
 
-Here are some ideas to get you started:
+- 🎨 Designing intuitive user interfaces and thoughtful design systems  
+- 🛠️ Mostly working in **Figma** and **Affinity**  
+  (Check out my work on [Behance](https://behance.net/) & [Dribbble](https://dribbble.com/))
+- 📱 Building native applications using **Swift** (iOS) and **Kotlin** (Android)
+- 🐧 Creating **FOSS apps for GNOME**, my favorite desktop environment, using **GTK**
+- 🧠 Exploring **system design** and **scalable design systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Check out my work
+
+> Visit my portfolio at *[pratyush.io](https://pratyush.io)* to see selected projects and experiments.
